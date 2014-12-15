@@ -1,0 +1,24 @@
+This is my awesome game. Dont leave yet
+which command reads files??
+"r"
+"a"
+"W"
+None of them
+1
+The command to read is "R".
+Onto the next one!
+What does "readlines()" do?
+Read the final line in a text file
+Read the first line in a text file
+Reads all lines in a text file
+reads inbetween the lines
+3
+Read all lines in a text file
+Onwards young oneeeee! 
+What does "n" do?
+Creates a new file
+Writes a file
+Reads a file
+Opens a file 
+1
+"n" creates a new file for reading and writing
